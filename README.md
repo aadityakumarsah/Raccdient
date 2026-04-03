@@ -84,8 +84,9 @@ Ensure the following are installed:
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/sandeshprasai/TechSprint_CodeRunners.git
-cd TechSprinthackathon
+git clone https://github.com/aadityakumarsah/Raccdient
+cd Raccdient
+
 ```
 
 ## Note: The repository and markdown will be updated as project advances.
